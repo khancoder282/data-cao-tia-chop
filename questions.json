@@ -278,7 +278,7 @@
   },
   {
     "qt": "Công thức tính quãng đường là gì?",
-    "ans": ["S = V : t", "S = t × V", "S = V + t", "S = V - t"],
+    "ans": ["S = V : t", "S = V × t", "S = V + t", "S = V - t"],
     "true": "S = V × t"
   },
   {
