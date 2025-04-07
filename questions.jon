@@ -1,0 +1,329 @@
+[
+  {
+    "qt": "Công thức tính chu vi hình chữ nhật là gì?",
+    "ans": ["P = a × b", "P = (a + b) × 2", "P = a + b", "P = a × 2"],
+    "true": "P = (a + b) × 2"
+  },
+  {
+    "qt": "Số lớn nhất có ba chữ số khác nhau là số nào?",
+    "ans": ["999", "987", "998", "9990"],
+    "true": "987"
+  },
+  {
+    "qt": "Chu vi hình vuông có cạnh 5cm là bao nhiêu?",
+    "ans": ["10cm", "15cm", "20cm", "25cm"],
+    "true": "20cm"
+  },
+  {
+    "qt": "Số chia hết cho 2 là số như thế nào?",
+    "ans": [
+      "Số tận cùng là số 1, 3, 5",
+      "Số tận cùng là số 0, 2, 4, 6, 8",
+      "Số tận cùng là số 7 hoặc 9",
+      "Số chia hết cho 5"
+    ],
+    "true": "Số tận cùng là số 0, 2, 4, 6, 8"
+  },
+  {
+    "qt": "Phép nhân nào cho kết quả lớn nhất?",
+    "ans": ["6 × 8", "7 × 7", "5 × 9", "4 × 12"],
+    "true": "7 x 7"
+  },
+  {
+    "qt": "Số nào là số lẻ?",
+    "ans": ["246", "135", "808", "1024"],
+    "true": "135"
+  },
+  {
+    "qt": "Một tuần lễ có bao nhiêu ngày?",
+    "ans": ["5", "6", "7", "8"],
+    "true": "7"
+  },
+  {
+    "qt": "Số liền sau của 999 là số nào?",
+    "ans": ["1000", "1001", "998", "1002"],
+    "true": "1000"
+  },
+  {
+    "qt": "Phép cộng nào cho kết quả bằng 100?",
+    "ans": ["50 + 40", "60 + 30", "70 + 20", "80 + 20"],
+    "true": "80 + 20"
+  },
+  {
+    "qt": "Số nào nhỏ nhất trong các số sau?",
+    "ans": ["0,5", "0,05", "0,005", "0,0005"],
+    "true": "0,0005"
+  },
+  {
+    "qt": "Quy tắc tính các phép toán",
+    "ans": [
+      "Cộng trừ trước, nhân chia sau",
+      "Nhân chia trước, cộng trừ sau",
+      "Từ phải sang phải",
+      "Ngoài ngoặc tính trước, trong ngoặc tính sau"
+    ],
+    "true": "Nhân chia trước, cộng trừ sau"
+  },
+  {
+    "qt": "Công thức trong phép tính cộng",
+    "ans": [
+      "Số hạng + số hạng = tổng",
+      "Số bị trừ - số trừ = hiệu",
+      "Số bị chia : số chia = thương",
+      "Thừa số x thừa số = tích"
+    ],
+    "true": "Số hạng + số hạng = tổng"
+  },
+  {
+    "qt": "Công thức trong phép tính trừ",
+    "ans": [
+      "Số hạng + số hạng = tổng",
+      "Số bị trừ - số trừ = hiệu",
+      "Số bị chia : số chia = thương",
+      "Thừa số x thừa số = tích"
+    ],
+    "true": "Số bị trừ - số trừ = hiệu"
+  },
+  {
+    "qt": "Công thức trong phép tính nhân",
+    "ans": [
+      "Số hạng + số hạng = tổng",
+      "Số bị trừ - số trừ = hiệu",
+      "Số bị chia : số chia = thương",
+      "Thừa số x thừa số = tích"
+    ],
+    "true": "Thừa số x thừa số = tích"
+  },
+  {
+    "qt": "Công thức trong phép tính chia",
+    "ans": [
+      "Số hạng + số hạng = tổng",
+      "Số bị trừ - số trừ = hiệu",
+      "Số bị chia : số chia = thương",
+      "Thừa số x thừa số = tích"
+    ],
+    "true": "Số bị chia : số chia = thương"
+  },
+  {
+    "qt": "Một mảnh đất hình chữ nhật có chiều dài 20m và chiều rộng 10m. Chu vi của mảnh đất đó là bao nhiêu mét?",
+    "ans": ["60m", "30m", "200m", "100m"],
+    "true": "60m"
+  },
+  {
+    "qt": "Một quyển vở có bìa hình chữ nhật, dài 24cm, rộng 18cm. Chu vi của bìa vở là bao nhiêu cm?",
+    "ans": ["84cm", "42cm", "96cm", "108cm"],
+    "true": "84cm"
+  },
+  {
+    "qt": "Một tấm bảng hình chữ nhật có chu vi 10m, biết chiều dài là 3m. Chiều rộng của tấm bảng là bao nhiêu mét?",
+    "ans": ["1m", "2m", "3m", "4m"],
+    "true": "2m"
+  },
+  {
+    "qt": "Số La Mã I tương ứng với số nào trong hệ thập phân?",
+    "ans": ["1", "5", "10", "50"],
+    "true": "1"
+  },
+  {
+    "qt": "Số La Mã V tương ứng với số nào trong hệ thập phân?",
+    "ans": ["1", "5", "10", "100"],
+    "true": "5"
+  },
+  {
+    "qt": "Số La Mã X tương ứng với số nào trong hệ thập phân?",
+    "ans": ["5", "10", "50", "100"],
+    "true": "10"
+  },
+  {
+    "qt": "Công thức tính chu vi hình vuông là gì?",
+    "ans": ["P = a + 4", "P = a × 4", "P = a × a", "P = a : 4"],
+    "true": "P = a × 4"
+  },
+  {
+    "qt": "Công thức tính diện tích hình vuông là gì?",
+    "ans": ["S = a + a", "S = a × 4", "S = a × a", "S = a : a"],
+    "true": "S = a × a"
+  },
+  {
+    "qt": "Công thức tính diện tích hình chữ nhật là gì?",
+    "ans": ["S = a + b", "S = a × b", "S = (a + b) × 2", "S = a : b"],
+    "true": "S = a × b"
+  },
+  {
+    "qt": "Công thức tính diện tích hình bình hành là gì?",
+    "ans": ["S = a × h", "S = a + h", "S = a : h", "S = (a + b) × 2"],
+    "true": "S = a × h"
+  },
+  {
+    "qt": "Công thức tính diện tích hình thoi là gì?",
+    "ans": ["S = m + n", "S = m × n", "S = (m × n) : 2", "S = m : n"],
+    "true": "S = (m × n) : 2"
+  },
+  {
+    "qt": "Công thức tính chu vi hình tam giác là gì?",
+    "ans": ["P = a + b", "P = a × b × c", "P = a + b + c", "P = a × h"],
+    "true": "P = a + b + c"
+  },
+  {
+    "qt": "Công thức tính diện tích tam giác vuông là gì?",
+    "ans": ["S = (b × a) : 2", "S = a + b + c", "S = (a × h) : 2", "S = a × b"],
+    "true": "S = (b × a) : 2"
+  },
+  {
+    "qt": "Công thức tính diện tích hình thang là gì?",
+    "ans": [
+      "S = (a + b) × 2",
+      "S = (a + b) × h : 2",
+      "S = a × h",
+      "S = a + b + h"
+    ],
+    "true": "S = (a + b) × h : 2"
+  },
+  {
+    "qt": "Công thức tính đường kính hình tròn là gì?",
+    "ans": ["d = r × 2", "d = r + r + r", "d = r : 2", "d = r × 3.14"],
+    "true": "d = r × 2"
+  },
+
+  {
+    "qt": "Công thức tính chu vi hình tròn là gì?",
+    "ans": ["P = r × 3,14", "P = r × 2 × 3,14", "P = r + 2", "P = d × 2"],
+    "true": "P = r × 2 × 3,14"
+  },
+  {
+    "qt": "Công thức tính diện tích hình tròn là gì?",
+    "ans": [
+      "S = r × r",
+      "S = r × 2 × 3,14",
+      "S = r × r × 3,14",
+      "S = r × 3,14"
+    ],
+    "true": "S = r × r × 3,14"
+  },
+  {
+    "qt": "Công thức tính diện tích thành giếng là gì?",
+    "ans": [
+      "Diện tích hình tròn lớn + diện tích hình tròn nhỏ",
+      "Diện tích hình tròn lớn - diện tích hình tròn nhỏ",
+      "r × 2 × 3,14",
+      "r × r × 3,14"
+    ],
+    "true": "Diện tích hình tròn lớn - diện tích hình tròn nhỏ"
+  },
+  {
+    "qt": "Công thức tính diện tích xung quanh hình hộp chữ nhật là gì?",
+    "ans": ["S = a × b × c", "S = a × b", "Sxq = Pdáy × h", "S = a + b + c"],
+    "true": "Sxq = Pdáy × h"
+  },
+  {
+    "qt": "Công thức tính thể tích hình hộp chữ nhật là gì?",
+    "ans": ["V = a × b × c", "V = a × b", "V = Pdáy × h", "V = Sxq : h"],
+    "true": "V = a × b × c"
+  },
+  {
+    "qt": "Muốn tính chiều cao hồ chứa nước ta dùng công thức nào?",
+    "ans": [
+      "hhồ = Vhồ × Sdáy",
+      "hhồ = Vhồ : Sdáy",
+      "hhồ = Sdáy : Vhồ",
+      "hhồ = Vhồ + Sdáy"
+    ],
+    "true": "hhồ = Vhồ : Sdáy"
+  },
+  {
+    "qt": "Muốn tính chiều cao mặt nước đang có trong hồ ta làm gì?",
+    "ans": [
+      "Chia diện tích đáy cho thể tích",
+      "Trừ chiều cao thành hồ",
+      "Chia thể tích nước cho diện tích đáy",
+      "Nhân thể tích với chiều cao"
+    ],
+    "true": "Chia thể tích nước cho diện tích đáy"
+  },
+  {
+    "qt": "Chiều cao phần hồ trống được tính bằng công thức nào?",
+    "ans": ["hhồ + hnước", "hnước - hhồ", "hhồ - hnước", "Vhồ - Vnước"],
+    "true": "hhồ - hnước"
+  },
+  {
+    "qt": "Công thức tính diện tích quét vôi là gì?",
+    "ans": [
+      "Diện tích quét vôi = Sxq",
+      "Diện tích quét vôi = diện tích bốn bức tường và trần - diện tích các cửa",
+      "Diện tích quét vôi = Sxq + S đáy",
+      "Diện tích quét vôi = S đáy + S trần"
+    ],
+    "true": "Diện tích quét vôi = diện tích bốn bức tường và trần - diện tích các cửa"
+  },
+
+  {
+    "qt": "Công thức tính diện tích xung quanh hình lập phương là gì?",
+    "ans": [
+      "Sxq = a × a",
+      "Sxq = (a × a) × 6",
+      "Sxq = (a × a) × 4",
+      "Sxq = a × 4"
+    ],
+    "true": "Sxq = (a × a) × 4"
+  },
+  {
+    "qt": "Công thức tính thể tích hình lập phương là gì?",
+    "ans": ["V = a × a × a", "V = a × b × c", "V = a × a", "V = (a × a) × 6"],
+    "true": "V = a × a × a"
+  },
+  {
+    "qt": "Công thức tính vận tốc là gì?",
+    "ans": ["V = S × t", "V = S : t", "V = t : S", "V = t × S"],
+    "true": "V = S : t"
+  },
+  {
+    "qt": "Công thức tính quãng đường là gì?",
+    "ans": ["S = V : t", "S = t × V", "S = V + t", "S = V - t"],
+    "true": "S = V × t"
+  },
+  {
+    "qt": "Công thức tính thời gian là gì?",
+    "ans": ["t = V : S", "t = V × S", "t = S : V", "t = S × V"],
+    "true": "t = S : V"
+  },
+  {
+    "qt": "Công thức hiệu vận tốc khi hai vật cùng chiều, đuổi kịp nhau là gì?",
+    "ans": ["V = V1 + V2", "V = S : t", "V = V1 - V2", "V = V2 - V1"],
+    "true": "V = V1 - V2"
+  },
+  {
+    "qt": "Khi hai xe cùng chiều, không cùng lúc, muốn tìm TG đuổi kịp nhau ta cần:",
+    "ans": [
+      "Hiệu vận tốc chia khoảng cách",
+      "Tổng vận tốc chia khoảng cách",
+      "Vận tốc nhân thời gian",
+      "Lấy thời gian trừ quãng đường"
+    ],
+    "true": "Hiệu vận tốc chia khoảng cách"
+  },
+  {
+    "qt": "Công thức tính vận tốc khi hai xe ngược chiều là gì?",
+    "ans": ["V = V1 + V2", "V = V1 - V2", "V = V1 × V2", "V = S : V2"],
+    "true": "V = V1 + V2"
+  },
+  {
+    "qt": "Công thức tính TG để gặp nhau khi đi ngược chiều là gì?",
+    "ans": [
+      "t = S : (V1 + V2)",
+      "t = S : (V1 - V2)",
+      "t = S × (V1 + V2)",
+      "t = S × V"
+    ],
+    "true": "t = S : (V1 + V2)"
+  },
+  {
+    "qt": "Khi hai xe đi ngược chiều và không cùng lúc, muốn tìm chỗ gặp nhau thì dùng công thức nào?",
+    "ans": [
+      "Vận tốc × TG đi gặp nhau",
+      "Vận tốc × TG đi trễ",
+      "Hiệu vận tốc × thời gian",
+      "Quãng đường chia vận tốc"
+    ],
+    "true": "Vận tốc × TG đi gặp nhau"
+  }
+]
