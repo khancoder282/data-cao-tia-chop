@@ -27,7 +27,7 @@
   {
     "qt": "Phép nhân nào cho kết quả lớn nhất?",
     "ans": ["6 × 8", "7 × 7", "5 × 9", "4 × 12"],
-    "true": "7 x 7"
+    "true": "7 × 7"
   },
   {
     "qt": "Số nào là số lẻ?",
